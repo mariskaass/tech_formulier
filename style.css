@@ -18,16 +18,17 @@ label {
     margin-bottom: 8px;
 }
 
-.wbj {
-    display: flex;
-}
-
 input {
     width: 100%;
     padding: 8px;
     margin-bottom: 16px;
     box-sizing: border-box;
 }
+
+.wbj {
+    width: 20%;
+}
+
 
 #color {
     height: 50px;
